@@ -1,0 +1,12 @@
+# Dependências: não enviar ao GitHub.
+node_modules/
+
+# Arquivos locais gerados pelo Expo.
+.expo/
+dist/
+web-build/
+
+# Logs e arquivos do sistema.
+*.log
+.DS_Store
+Thumbs.db

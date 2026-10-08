@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Lista de Compras",
+    "slug": "lista-de-compras",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
